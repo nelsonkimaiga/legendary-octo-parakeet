@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Mutwol\Documents\GitHub\therhapsody\conf\application.conf,C:\Users\Mutwol\Documents\GitHub\therhapsody\target\scala-2.13\classes\application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Mutwol\Documents\GitHub\therhapsody\conf\logback.xml,C:\Users\Mutwol\Documents\GitHub\therhapsody\target\scala-2.13\classes\logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Mutwol\Documents\GitHub\therhapsody\conf\routes,C:\Users\Mutwol\Documents\GitHub\therhapsody\target\scala-2.13\classes\routes)[0m
